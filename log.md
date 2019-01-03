@@ -1,30 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 2, 2019 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked through the Flatiron lessons for asynchronous JavaScript. Started with basic XHR and then AJAX/Callbacks and JS' fetch() method using the GitHub API. Spent quite a bit of time practicing with the GitHub API- pulling repos, creating forks, pulling/posting issues/commits, etc.. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** This was my first real exposure to using APIs and it was definitely an interesting learning experience. I feel like I've got a pretty good grasp on the various AJAX/jQuery/vanilla JS involved in pulling from and posting through an API. Biggest lesson today: slow down! I found myself spending a big too much time banging my head against a wall only to realize it was some small mistake in one of my calls. D'oh! Most of my time was spent trying to troubleshoot through the Github API docs rather than my code, as simple as it was. I'd really love to slim down my code and clean it up. I feel like it may still be more messy than I'd like, but hey it's working!
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Time Spent Today:** 8 Hours
+**Journey Time** 724 hours
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
