@@ -9,6 +9,8 @@
 **Time Spent Today:** 8 Hours
 **Journey Time** 724 hours
 
+### Day 2: January 3, 2019 
+
 **Today's Progress**: Started the day working on some HakerRank problems in JS/Ruby and starting their 30 days of code challenge on top of this! Continued to work through the Flatiron JS and Rails/JS coursework later on. Finished the JS section today by learning how to create simple test with Mocha and Sinon, including spies and stubs/mocks. Transitioned back to Rails and starting to learn how to incorporate JS and make use of the Asset Pipeline. Learned the ins and outs of the AP manifest files and how to incorporate some basic CSS/JS into existing projects. Finished the day creating some basic functionality in an app to import CSV files and manipulate the data from them. 
 
 **Thoughts:** It felt good getting through the rest of the basic JS section. I'd like to spend some freetime looking more into JS and increasing my proficiency. Flatiron skims over quite a bit in their section but I need to increase my knowledge further, i feel like there is so much more I could learn about basic JS usage and flesh out some ideas for my Penda app project. Felt pretty good today, no real roadblocks. Definitely happy to be working with Ruby/Rails again, just feels so natural! Will pickup tomorrow working more with Sidekiq and APIs/AJAX in Rails. 
