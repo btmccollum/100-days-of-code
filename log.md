@@ -17,3 +17,16 @@
 
 **Time Spent Today:** 8.5 Hours
 **Journey Time** 732.5 hours
+
+### Day 3: January 4, 2019 
+
+**Today's Progress**: Got a late start today with some at home issues that popped up this morning. Started off the day by completing Day 1 of 30 Days Of Code (HR) and then some additional JS and Ruby problems for practice. After working with Rails so much it's good to get a refresher on some basic Ruby! Explored the use of Sidekiq a bit, which can be used to move long-running tasks off of the main app's thread and minimize user impact (was working with CSV files again). Worked more with Rails and APIs, mainly leveraging Postman to explore, then using implementing Faraday in my Rails app. Primarliy played around with Foursquare and Github APIs in some simple exercises to create a simple user interface to do custom API hits.
+
+**Thoughts:** Despite the late start I felt like it was a productive day, although I didnt get through as many labs as I'd like to have. Working with various APIs is really interesting but can be a headscratcher sometimes when you cant get it to work the way you want. Make sure you're always checking the small stuff, even something as silly as forgetting to use 'https' instead of 'http'. Feel like I've gotten a better feel for using API documentation. 
+
+**Link(s) to Work:**
+(https://github.com/btmccollum/basic-apis-lab-v-000)
+
+**Time Spent Today:** 7 Hours
+**Journey Time** 739.5 hours
+
