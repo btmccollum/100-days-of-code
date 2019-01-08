@@ -39,4 +39,22 @@
 **Time Spent Today:** 1.5 hours
 **Journey Time** 741 hours
 
+### Day 5 January 6, 2019 
+
+**Today's Progress**: Spent my time doing some introductory problems with Algorithms and Data Structures. Definitely took a bit to figure some of the challenges out but they were fun! 
+
+**Thoughts:** Was able to get a bit more done inbetween house work today. Mainly just focused on doing some HackerRank problems, and CodeWars challenges. I find that they're a good way to warm up or challenge myself when I dont have a lot of time to study or commit to a project. Started dealing with triplets and some introductory work with Algorithms and data structures- very interesting! 
+
+**Time Spent Today:** 2 hours
+**Journey Time** 743 hours
+
+### Day 6 January 7, 2019 
+
+**Today's Progress**: Mainly spent the day working with various APIs and got practice in making hits and primarily making POST requests. Created a very basic app to let an oauth authenticated user pull a list of their github repos and then create a new repo by entering a name in a text field. Worked with Postman quite a bit too to get some practice additional get/post requests as well. 
+
+**Thoughts:** Definitely feeling more comfortable working with APIs and reading through their documentation. I lost about an hour or so while being stubborn- learning opportunity! In my excitement I misread where you're supposed to request for repo access from a user, and was trying to do it at the time of the post, rather than getting that permission upfront when establishing the user and getting a token. Felt really silly after I realized what was going on, but hey just shows you the importance of taking the time to FULLY read the docs for what you're trying to do and making sure you're in the right section. It really helps to read the getting started section and not just jumping to the parts you're messing with. 
+
+**Time Spent Today:** 9 hours
+**Journey Time** 750 hours
+
 
