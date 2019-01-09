@@ -57,4 +57,13 @@
 **Time Spent Today:** 9 hours
 **Journey Time** 750 hours
 
+### Day 7 January 7, 2019 
+
+**Today's Progress**: Learned about creating web service objects in Rails which help to move some of the API logic outside of the controllers to help your app better adhere to the single responsibility principle. Also start learning to implement AJAX GET/POST requests with Rails to better serve content. Worked on an older app to implement an AJAX post request to create a comment within a project without having to navigate away or lock up the browser. 
+
+**Thoughts:** Rails never ceases to amaze me with all the handy little nuances that make it very user friendly and the asset pipeline has been fun to play with. I'm familiar with some JS (need to learn coffeescript!) and was creating some basic on click functions that would dynamically load a project's comments in the page, or send a post request behind the scenes using AJAX. Still feel like I'm a bit clumsy in creating those requests, but I need to keep learning about how to implement them with my existing application and move some of that out of the Rails stack. 
+
+**Time Spent Today:** 8.5 hours
+**Journey Time** 758.5 hours
+
 
