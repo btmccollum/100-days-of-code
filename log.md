@@ -54,16 +54,61 @@
 
 **Thoughts:** Definitely feeling more comfortable working with APIs and reading through their documentation. I lost about an hour or so while being stubborn- learning opportunity! In my excitement I misread where you're supposed to request for repo access from a user, and was trying to do it at the time of the post, rather than getting that permission upfront when establishing the user and getting a token. Felt really silly after I realized what was going on, but hey just shows you the importance of taking the time to FULLY read the docs for what you're trying to do and making sure you're in the right section. It really helps to read the getting started section and not just jumping to the parts you're messing with. 
 
-**Time Spent Today:** 9 hours
-**Journey Time** 750 hours
+**Time Spent Today:** 9.5 hours
+**Journey Time** 750.5 hours
 
-### Day 7 January 7, 2019 
+### Day 7 January 8, 2019 
 
 **Today's Progress**: Learned about creating web service objects in Rails which help to move some of the API logic outside of the controllers to help your app better adhere to the single responsibility principle. Also start learning to implement AJAX GET/POST requests with Rails to better serve content. Worked on an older app to implement an AJAX post request to create a comment within a project without having to navigate away or lock up the browser. 
 
 **Thoughts:** Rails never ceases to amaze me with all the handy little nuances that make it very user friendly and the asset pipeline has been fun to play with. I'm familiar with some JS (need to learn coffeescript!) and was creating some basic on click functions that would dynamically load a project's comments in the page, or send a post request behind the scenes using AJAX. Still feel like I'm a bit clumsy in creating those requests, but I need to keep learning about how to implement them with my existing application and move some of that out of the Rails stack. 
 
-**Time Spent Today:** 8.5 hours
-**Journey Time** 758.5 hours
+**Time Spent Today:** 9 hours
+**Journey Time** 759.5 hours
 
+### Day 8 January 9, 2019
+
+**Today's Progress**: Picked up from yesterday with API endpoints. Learned about API POSTs with AJAX to dynamically load information from the db without having to redirect or refresh the page. Revisited an old project and used JS to dynamically load the comments on a project, as well as creating new comments without having to navigate off the project page. 
+
+**Thoughts:** It had been a long time since I last messed with JS but it does feel familiar again. I've missed so much and there are so many interesting things that you can do. The Penda project app I started was designed from the beginning to make heavy use of JS so I'm excited to start revamping it in the next week or so after I get through a few more lessons. 
+
+**Time Spent Today:** 5.75 hours
+**Journey Time** 765.25 hours
+
+### Day 9 January 10, 2019
+
+**Today's Progress**: More of the same from the last two days, just more practice with AJAX using higher end methods instead of just the low level '.ajax'. I find it really helpful to start at the lowest level operators or methods and work my way up from there. 
+
+**Thoughts:** Loving the addition of JS and making use of the asset pipeline. Curious when we will start pulling the JS scripts out of the individual ERB templates and back into the asset pipeline files for those views/classes/etc instead. 
+
+**Time Spent Today:** 7.5 hours
+**Journey Time** 772.75 hours
+
+### Day 10 January 11, 2019
+
+**Today's Progress**: Learned about Active Model Serializers today. Installed the AMS gem and created some simple serializers with the rails generate command. Created basic serializers for existing classes and also serializers to display AR associations. 
+
+**Thoughts:** Having access to AMS is sooo much more convenient then having to manually write out eachline for how the serializer should properly display JSON. Not to mention that would quickly become a huge pain with more complex classes. Looking forward to working with AMS more, definitely making things easier. 
+
+**Time Spent Today:** 3.5 hours
+**Journey Time** 776.25 hours
+
+### Day 11 January 13, 2019
+**NOTE: on 1/12 we had to go out of town for a visit to the countryside. I was told we'd have WIFI access at our location and planned to do some work in the mornings/evenings but that was not the case and instead I had 0 access to anything! 
+
+**Today's Progress**: More practice with AMS to better access JSON formatted data from my models. 
+
+**Thoughts:** Not as productive as a weekend as I was hoping with the internet challenges, however I did get a bit more practice in using AMS. Feeling like I have a pretty solid understanding now of working with JS and Rails ot dynamically render content. I can think of a few handy applications for loading data but I'd to see some best case use scenarios for a more thorough idea of where and how I can implement this properly into projects. 
+
+**Time Spent Today:** 2 hours
+**Journey Time** 778.25 hours
+
+### Day 12 January 14, 2019
+
+**Today's Progress**: Continued to practice receiving API posts. Started work on a simple single page application Tic-Tac-Toe game leveraging jQuery and a Rails API. Finished the backend, now just need to work out the front-end to bring everything together. Should be a good test of what I've praticed the last few days to make use of JS/jQuery/AJAX/JSON/AMS/Rails API.
+
+**Thoughts:** The last week or so has been a bit tough and I havent been able to get in as much time as I normally like to, today especially. Spent some time this morning attending lectures and also getting some pointers on the upcoming career search. Getting excited! Really like where I'm going with AMS and building out a Rails API. I'm coming across so many small things I stumbled across previously and learning how to properly implement them. Feels like a real confidence booster bringing everything together. 
+
+**Time Spent Today:** 6 hours
+**Journey Time** 784.25 hours
 
