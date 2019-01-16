@@ -112,3 +112,12 @@
 **Time Spent Today:** 6 hours
 **Journey Time** 784.25 hours
 
+### Day 13 January 15, 2019
+
+**Today's Progress**: Finished a lesson for creating a rails based single page app Tic-tac-toe game that heavily leverages jQuery.
+
+**Thoughts:** Felt great finishing out this SPA Rails app. I find myself still trying to overcomplicate some things that should be simple which can be frustrating. For example I spent an embarassing amount of time thinking through a way to pass around an object's ID through the various JS functions depending on whether or not the game had been saved. I initially ended up injecting the id into a hidden input field after retrieving the data with a jQuery get request, only to realize the moment after it would be MUCH simpler to declare it in the JS file as a global variable (d'oh!). Always helps to remind myself to "keep it simple, stupid!" Make sure you're taking breaks and if you feel like you're overthinking things, slow it down a bit and remember the basics. 
+
+**Link(s) to Work**: https://github.com/btmccollum/js-tictactoe-rails-api-v-000 
+**Time Spent Today:** 8 hours
+**Journey Time** 792.25 hours
