@@ -129,6 +129,6 @@
 **Thoughts:** Other than being sick all day, I felt satisfied at least I was able to learn a few new things and attend some discussions. The AMS trick was really neat, I hadnt seen that in the documentation but someone else stumbled into it an shared. This may solve my headaches with trying to pass some customized #strftime helpers from rails. Excited to start revamping my project tomorrow and see how much I can get done!
 
 **Link(s) to Work**: https://github.com/btmccollum/penda-app
-**Time Spent Today:** 8 hours
-**Journey Time** 792.25 hours
+**Time Spent Today:** 3.5 hours
+**Journey Time** 795.75 hours
 
