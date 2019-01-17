@@ -121,3 +121,14 @@
 **Link(s) to Work**: https://github.com/btmccollum/js-tictactoe-rails-api-v-000 
 **Time Spent Today:** 8 hours
 **Journey Time** 792.25 hours
+
+### Day 14 January 16, 2019
+
+**Today's Progress**: Sick today so didnt accomplish as much :( Attended a few talks on adding a JS frontend to Rails Apps. Learned something new about ActiveModel Serializers that's pretty handy, you can define a class' instance methods as attributes and pass the return values to JS through JSON! Tomorrow will be my official start to revamping my time tracker/client project application. 
+
+**Thoughts:** Other than being sick all day, I felt satisfied at least I was able to learn a few new things and attend some discussions. The AMS trick was really neat, I hadnt seen that in the documentation but someone else stumbled into it an shared. This may solve my headaches with trying to pass some customized #strftime helpers from rails. Excited to start revamping my project tomorrow and see how much I can get done!
+
+**Link(s) to Work**: https://github.com/btmccollum/penda-app
+**Time Spent Today:** 8 hours
+**Journey Time** 792.25 hours
+
