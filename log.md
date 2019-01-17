@@ -7,6 +7,7 @@
 **Thoughts:** This was my first real exposure to using APIs and it was definitely an interesting learning experience. I feel like I've got a pretty good grasp on the various AJAX/jQuery/vanilla JS involved in pulling from and posting through an API. Biggest lesson today: slow down! I found myself spending a big too much time banging my head against a wall only to realize it was some small mistake in one of my calls. D'oh! Most of my time was spent trying to troubleshoot through the Github API docs rather than my code, as simple as it was. I'd really love to slim down my code and clean it up. I feel like it may still be more messy than I'd like, but hey it's working!
 
 **Time Spent Today:** 8 hours
+
 **Journey Time** 724 hours
 
 ### Day 2: January 3, 2019 
@@ -16,6 +17,7 @@
 **Thoughts:** It felt good getting through the rest of the basic JS section. I'd like to spend some freetime looking more into JS and increasing my proficiency. Flatiron skims over quite a bit in their section but I need to increase my knowledge further, i feel like there is so much more I could learn about basic JS usage and flesh out some ideas for my Penda app project. Felt pretty good today, no real roadblocks. Definitely happy to be working with Ruby/Rails again, just feels so natural! Will pickup tomorrow working more with Sidekiq and APIs/AJAX in Rails. 
 
 **Time Spent Today:** 8.5 hours
+
 **Journey Time** 732.5 hours
 
 ### Day 3: January 4, 2019 
@@ -28,6 +30,7 @@
 (https://github.com/btmccollum/basic-apis-lab-v-000)
 
 **Time Spent Today:** 7 hours
+
 **Journey Time** 739.5 hours
 
 ### Day 4 January 5, 2019 
@@ -37,6 +40,7 @@
 **Thoughts:** I feel like these HR or CodeWars challenges are a great daily warm up activity to keep my skills sharp. I've learned A LOT since last August, but these have shown me the importance of keeping on top of some of the basics. Sometimes simple is the right answer, especially from a complexity and run time standpoint. I'm really looking forward to getting into some of the CS concepts and Algorithms. I'd like to start looking into the CS50x coursework.
 
 **Time Spent Today:** 1.5 hours
+
 **Journey Time** 741 hours
 
 ### Day 5 January 6, 2019 
@@ -46,6 +50,7 @@
 **Thoughts:** Was able to get a bit more done inbetween house work today. Mainly just focused on doing some HackerRank problems, and CodeWars challenges. I find that they're a good way to warm up or challenge myself when I dont have a lot of time to study or commit to a project. Started dealing with triplets and some introductory work with Algorithms and data structures- very interesting! 
 
 **Time Spent Today:** 2 hours
+
 **Journey Time** 743 hours
 
 ### Day 6 January 7, 2019 
@@ -55,6 +60,7 @@
 **Thoughts:** Definitely feeling more comfortable working with APIs and reading through their documentation. I lost about an hour or so while being stubborn- learning opportunity! In my excitement I misread where you're supposed to request for repo access from a user, and was trying to do it at the time of the post, rather than getting that permission upfront when establishing the user and getting a token. Felt really silly after I realized what was going on, but hey just shows you the importance of taking the time to FULLY read the docs for what you're trying to do and making sure you're in the right section. It really helps to read the getting started section and not just jumping to the parts you're messing with. 
 
 **Time Spent Today:** 9.5 hours
+
 **Journey Time** 750.5 hours
 
 ### Day 7 January 8, 2019 
@@ -64,6 +70,7 @@
 **Thoughts:** Rails never ceases to amaze me with all the handy little nuances that make it very user friendly and the asset pipeline has been fun to play with. I'm familiar with some JS (need to learn coffeescript!) and was creating some basic on click functions that would dynamically load a project's comments in the page, or send a post request behind the scenes using AJAX. Still feel like I'm a bit clumsy in creating those requests, but I need to keep learning about how to implement them with my existing application and move some of that out of the Rails stack. 
 
 **Time Spent Today:** 9 hours
+
 **Journey Time** 759.5 hours
 
 ### Day 8 January 9, 2019
@@ -73,6 +80,7 @@
 **Thoughts:** It had been a long time since I last messed with JS but it does feel familiar again. I've missed so much and there are so many interesting things that you can do. The Penda project app I started was designed from the beginning to make heavy use of JS so I'm excited to start revamping it in the next week or so after I get through a few more lessons. 
 
 **Time Spent Today:** 5.75 hours
+
 **Journey Time** 765.25 hours
 
 ### Day 9 January 10, 2019
@@ -82,6 +90,7 @@
 **Thoughts:** Loving the addition of JS and making use of the asset pipeline. Curious when we will start pulling the JS scripts out of the individual ERB templates and back into the asset pipeline files for those views/classes/etc instead. 
 
 **Time Spent Today:** 7.5 hours
+
 **Journey Time** 772.75 hours
 
 ### Day 10 January 11, 2019
@@ -91,6 +100,7 @@
 **Thoughts:** Having access to AMS is sooo much more convenient then having to manually write out eachline for how the serializer should properly display JSON. Not to mention that would quickly become a huge pain with more complex classes. Looking forward to working with AMS more, definitely making things easier. 
 
 **Time Spent Today:** 3.5 hours
+
 **Journey Time** 776.25 hours
 
 ### Day 11 January 13, 2019
@@ -101,6 +111,7 @@
 **Thoughts:** Not as productive as a weekend as I was hoping with the internet challenges, however I did get a bit more practice in using AMS. Feeling like I have a pretty solid understanding now of working with JS and Rails ot dynamically render content. I can think of a few handy applications for loading data but I'd to see some best case use scenarios for a more thorough idea of where and how I can implement this properly into projects. 
 
 **Time Spent Today:** 2 hours
+
 **Journey Time** 778.25 hours
 
 ### Day 12 January 14, 2019
@@ -110,6 +121,7 @@
 **Thoughts:** The last week or so has been a bit tough and I havent been able to get in as much time as I normally like to, today especially. Spent some time this morning attending lectures and also getting some pointers on the upcoming career search. Getting excited! Really like where I'm going with AMS and building out a Rails API. I'm coming across so many small things I stumbled across previously and learning how to properly implement them. Feels like a real confidence booster bringing everything together. 
 
 **Time Spent Today:** 6 hours
+
 **Journey Time** 784.25 hours
 
 ### Day 13 January 15, 2019
@@ -119,7 +131,9 @@
 **Thoughts:** Felt great finishing out this SPA Rails app. I find myself still trying to overcomplicate some things that should be simple which can be frustrating. For example I spent an embarassing amount of time thinking through a way to pass around an object's ID through the various JS functions depending on whether or not the game had been saved. I initially ended up injecting the id into a hidden input field after retrieving the data with a jQuery get request, only to realize the moment after it would be MUCH simpler to declare it in the JS file as a global variable (d'oh!). Always helps to remind myself to "keep it simple, stupid!" Make sure you're taking breaks and if you feel like you're overthinking things, slow it down a bit and remember the basics. 
 
 **Link(s) to Work**: https://github.com/btmccollum/js-tictactoe-rails-api-v-000 
+
 **Time Spent Today:** 8 hours
+
 **Journey Time** 792.25 hours
 
 ### Day 14 January 16, 2019
@@ -129,6 +143,8 @@
 **Thoughts:** Other than being sick all day, I felt satisfied at least I was able to learn a few new things and attend some discussions. The AMS trick was really neat, I hadnt seen that in the documentation but someone else stumbled into it an shared. This may solve my headaches with trying to pass some customized #strftime helpers from rails. Excited to start revamping my project tomorrow and see how much I can get done!
 
 **Link(s) to Work**: https://github.com/btmccollum/penda-app
+
 **Time Spent Today:** 3.5 hours
+
 **Journey Time** 795.75 hours
 
