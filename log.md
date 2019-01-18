@@ -148,3 +148,15 @@
 
 **Journey Time** 795.75 hours
 
+### Day 15 January 17, 2019
+
+**Today's Progress**: Made some minor changes to my application to incorporate Ajax into the first few welcome pages. Working on making a dynamic login and signup experience.
+
+**Thoughts:** Originally when I designed my app, my root page gave the user two options to either sign up or log in. If they hit sign up they were redirected to an identical page with business user or standard user options. Depending on what they chose, they would be redirected to a signup form. With the help of Ajax I'm now replacing that HTML on the DOM to give them those same options, which was pretty simple to do. The trouble I started to run into was after going 'log in' and then trying to make an AJAX post from there, for some reason I'm not able to intercept that action and I think it has something to do with overriding the DOM to begin with to get to that point, but I'll experiment more with that tomorrow. Tomorrow I'm setting some goals for myself to get the Login and Signup pages converted to AJAX requests for a more dynamic feel. I feel like I just need one to work and then the other 2 will come very quickly. If that goes well then I can start working on the big one- the project entries! Trying to think ahead about how I'm going to model these JS domain objects, something I'm still not super comfortable with. Should be a great learning experience! Just need to remember when to stop being stubborn and explore other avenues. 
+
+**Link(s) to Work**: https://github.com/btmccollum/penda-app
+
+**Time Spent Today:** 5.5 hours
+
+**Journey Time** 801.25 hours
+
