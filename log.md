@@ -160,3 +160,16 @@
 
 **Journey Time** 801.25 hours
 
+### Day 16 January 18, 2019
+
+**Today's Progress**: Got almost all of my Project's JS taken care of, the JS Projects class is built out with its constructor and a few prototype methods added on. From my dashboard view I'm able to dynamically render a list of a user's projects with 3 different filters for all/active/completed. I'm also able to get a Project itself to load dynamically. I'll revisit the login process tomorrow now that I have a better grasp on how I'm going to have to set this up around my rails structure. 
+
+**Thoughts:** Feeling pretty excited with today's progress! The Projects piece is the cornerstone for working into the rest, as everything else depends on or loads within it. Working pretty well right now. From here I have a few things to finish up with projects, then I'll start needing to handle the forms within the projects page and then revisit the user information. One thing I need to invest some more time into is knowing what and what does not need to be dynamically rendered with Ajax vs just the normal rails redirects. I understand this project is sort of a weird hybrid of Rails and JS without a dedicated frontend, but there are still some interesting lessons to learn here. I'll be learning React soon enough!
+
+**Link(s) to Work**: https://github.com/btmccollum/penda-app
+
+**Time Spent Today:** 7.5 hours
+
+**Journey Time** 808.75 hours
+
+
