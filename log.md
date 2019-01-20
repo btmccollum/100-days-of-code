@@ -172,4 +172,32 @@
 
 **Journey Time** 808.75 hours
 
+### Day 17 January 19, 2019
+
+**Today's Progress**: Worked more on the JS Projects class and some of its prototypes. I was able to make it so I can load my dashboard through Ajax get request, then dynamically render a project show view from there, while reassigning my binds so that the embedded new comment form will still work after the ajax call, which was an issues before. 
+
+**Thoughts:** Spent most of my time figuring out how I could make it so my JS and event listeners continued to work after an AJAX request. I had a feeling that was the issue but couldnt put a finger on it, but now I know! It probably isn't the best way to go about it, but with the way I had my pages set up on Rails I figured I could essentially set up my yield inside of a .js-Content container and the append the results of the AJAX get into that container with #load() and targetting the same container on the returned page. Not the cleanest I think, but for now it works!
+
+**Link(s) to Work**: https://github.com/btmccollum/penda-app
+
+**Time Spent Today:** 2.5 hours
+
+**Journey Time** 811.25 hours
+
+### Day 18 January 20, 2019
+
+**Today's Progress**: Worked a bit more on the projects.js file. Got a few additional attributes added to the constructor to store the return values of the Ruby class' instance methods. Cleaned up the existing prototypes and removed their reliance on a const declared within the file, instead the prototypes now redeclare the current project for use within itself. 
+
+Side note, started the CS50x course to get a better grasp on data structures and algorithms. Very excited! I'll start spending a few hours with this on the weekends, at the very least. I feel like I should have spent some time upfront doing this. 
+
+**Thoughts:** I learned the other day that you can pass in the return values of Ruby instance methods through a serializer to be utilized in JS which solved my problem of making sure the Ruby and JS time/date displays matched up identically. Now I can use the same methods I was using on the Rails side to dynamically display my content. I feel pretty good with where Projects is going. I have a few more prototypes to add but from there I should be able to move on to time entries and start working on the timer.
+
+**Link(s) to Work**: https://github.com/btmccollum/penda-app
+
+**Time Spent Today:** 1.5 hours
+
+**Journey Time** 812.75 hours
+
+
+
 
