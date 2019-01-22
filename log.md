@@ -198,6 +198,18 @@ Side note, started the CS50x course to get a better grasp on data structures and
 
 **Journey Time** 812.75 hours
 
+### Day 19 January 21, 2019
+
+**Today's Progress**: Got a bit more work done on my projects show page. I got the time entries buttons and functions taken care of. I can now dynamically render the Time Entries new and index actions from the dashboard show page
+
+**Thoughts:** I feel a bit conflicted about how this continues to evolve. Originally this project involved just Rails, but now wants more emphasis on JS classes and prototypes, Ajax requests and so on. It feels a little wonky to me having robust views built out in Rails and then finding ways to inject JS. Right now I'm really just redoing the same work in JS on top of what I already have and not really utilizing the Rails content other than pulling over some views from the jQuery load() method to make use of some of that logic that was already built in. Maybe it's just me? I feel like this is a sort of inbetween that doesnt or shouldnt happen that often, as opposed to utilizing Rails purely for back end and making use of a true front end framework like React. 
+
+**Link(s) to Work**: https://github.com/btmccollum/penda-app
+
+**Time Spent Today:** 5.5 hours
+
+**Journey Time** 818.25 hours
+
 
 
 
