@@ -210,6 +210,14 @@ Side note, started the CS50x course to get a better grasp on data structures and
 
 **Journey Time** 818.25 hours
 
+### Day 20 January 22, 2019
 
+**Today's Progress**: Finished mapping out the rest of my JS classes to mirror my Rails models, other than users. Added a few more prototypes to the JS Project class and the new TimeEntry class. Pretty much everything about Projects now dynamically renders other than the comments delete action! 
 
+**Thoughts:** Didn't get as far as I would have liked to have today. I got sidetracked by a lot of issues trying to get my Project's comments resource to dynamically delete comments. Got close but not quite working the way it should. Tried with .ajax(), .post(), and fetch(). However I do feel like I gained a lot more comfort using the three of those! One other cool thing was that I learned about pushState() which can be used to change the user's history (url in address bar) without redirecting to it, so that a user will be able to refresh the same page that was retrieved by the ajax get request. I also made use of popstate which gets applied when pushState() is used. For example if you use pushState() and then hit the browser's back button, a popstate is applied and by making use of window.historyInitiated we can make it so the browser reloads the previous content and avoids some of the wonkyness with pushState().
 
+**Link(s) to Work**: https://github.com/btmccollum/penda-app
+
+**Time Spent Today:** 8.5 hours
+
+**Journey Time** 826.75 hours
