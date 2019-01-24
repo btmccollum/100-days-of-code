@@ -221,3 +221,15 @@ Side note, started the CS50x course to get a better grasp on data structures and
 **Time Spent Today:** 8.5 hours
 
 **Journey Time** 826.75 hours
+
+### Day 21 January 23, 2019
+
+**Today's Progress**: Finally got my dynamic delete request working for projects.js!! Cleaned up some of the other JS files. Messed around with pagination for a bit but didnt make much progress before working on the meat of my project again. 
+
+**Thoughts:** Really happy I can finally put the issues with the comments delete conumdrum behing me. Figure out that I had been trying to treat it like I was serializing data from a form, however when I originally set up the delete option on the erb template I had done it through an anchor tag instead. I needed to set up an event listener to handle that click and fire off the delete from there. Feel kind of silly it took me that long to realize what was happening. Love debugging, really forces you to think and really tests those problem solving skills. This is all making me really look forward to working with a front end framework so I can move away from these hybrid applications. 
+
+**Link(s) to Work**: https://github.com/btmccollum/penda-app
+
+**Time Spent Today:** 7.5 hours
+
+**Journey Time** 834.25 hours
