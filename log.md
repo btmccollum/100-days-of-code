@@ -233,3 +233,15 @@ Side note, started the CS50x course to get a better grasp on data structures and
 **Time Spent Today:** 7.5 hours
 
 **Journey Time** 834.25 hours
+
+### Day 22 January 24, 2019
+
+**Today's Progress**: Finished up the MVP for the JS portion of the Penda App for now. The Time Entry links now dynamically render the Time Entry show view. I was able to get the projects.js Project class to instantiate js objects for all of the comments and time entries that belong to the defined project. 
+
+**Thoughts:** Felt great getting the majority of my JS implemented that I had set out for. There is still plenty to do however! I plan on revisiting this project later on to really build out the timers and make them work as originally intended. For now I feel like this was definitely a great mini-project to get some hands on experience with dynamically rendering information through Ajax calls, working with the JSON api / data, and getting used to ES6 features/syntax and class constructors. Onwards to React/Redux!
+
+**Link(s) to Work**: https://github.com/btmccollum/penda-app
+
+**Time Spent Today:** 7 hours
+
+**Journey Time** 841.25 hours
