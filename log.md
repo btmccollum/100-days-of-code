@@ -245,3 +245,15 @@ Side note, started the CS50x course to get a better grasp on data structures and
 **Time Spent Today:** 7 hours
 
 **Journey Time** 841.25 hours
+
+### Day 23 January 25, 2019
+
+**Today's Progress**: Covered some introductory information about the Node Package Manager, general use, and how package.json files are created. Moved to React and generated some very small sample static pages making use of React Components. Then introduced some dynamic components that made use of recursion. 
+
+**Thoughts:** Super excited for React! I've heard quite a few negatives about how difficult it is to get into. So far it feels very intuitive and I'm really pumped about components and what I'll be able to create using them as building blocks. I'll be spending the next few days doing a deep dive on React material and then trying to build out some small projects. I'll take some time tomorrow to try and read through the full docs. 
+
+**Link(s) to Work**: https://github.com/btmccollum/penda-app
+
+**Time Spent Today:** 6 hours
+
+**Journey Time** 847.25 hours
