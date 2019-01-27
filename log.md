@@ -252,8 +252,16 @@ Side note, started the CS50x course to get a better grasp on data structures and
 
 **Thoughts:** Super excited for React! I've heard quite a few negatives about how difficult it is to get into. So far it feels very intuitive and I'm really pumped about components and what I'll be able to create using them as building blocks. I'll be spending the next few days doing a deep dive on React material and then trying to build out some small projects. I'll take some time tomorrow to try and read through the full docs. 
 
-**Link(s) to Work**: https://github.com/btmccollum/penda-app
-
 **Time Spent Today:** 6 hours
 
 **Journey Time** 847.25 hours
+
+### Day 24 January 26, 2019
+
+**Today's Progress**: Did a bit more work with some introductory React material. Learned about lists and keys and did some work with some small examples to render some sample cards for movies with a front and back. Learned a bit more in-depth information about props in React, their purpose, and how they work.
+
+**Thoughts:** Didnt get to as much as I would have liked, but the weekends are always a bit difficult. I was able to make my way deeper into the React documentation and learn about lists/keys and more about props. I initially misread what the purpose of a key is, attempting to use it as a hash symbol of sorts before realizing it is used as a unique identifier for React to be able to monitor changes and from there everything clicked. Props so far have been pretty easy, I have found them to be rather straightforward so far. It is really cool seeing some of the things you can do with React. 
+
+**Time Spent Today:** 2.25 hours
+
+**Journey Time** 849.5 hours
