@@ -265,3 +265,23 @@ Side note, started the CS50x course to get a better grasp on data structures and
 **Time Spent Today:** 2.25 hours
 
 **Journey Time** 849.5 hours
+
+### Day 25 January 27, 2019
+
+**Today's Progress**: Worked through some basic labs on React props. Spent the rest of my time on Saturday sifting through the React documentation to continue to get a grasp on React. 
+
+**Thoughts:** So far so good! Loving what I've seen of React so far, and cant wait to start putting components and props to further use. I love how React modularizes everything. Although I've only played around with some very simple applications or examples, I can't wait to see some larger and more complex projects and how modules are leveraged. 
+
+**Time Spent Today:** 2 hours
+
+**Journey Time** 851.5 hours
+
+### Day 26 January 28, 2019
+
+**Today's Progress**: Spent the majority of the day focusing on some professional development activities related to software development- I am in the middle of a career change afterall! Worked through some documentation on state and modular code, also got a crash course into how React handles event listeners.  Also passed the first two parts of my Rails/JS assessment! Part three is scheduled for Wednesday-- excited! 
+
+**Thoughts:** The closer I get to looking for my first job in this field, the more excited I get. In the end I know I am going to be much more fulfilled in this industry and field compared to what I was doing before. Although I spent quite a bit of time on professional development, I still made time to get some React studies done. State is pretty interesting so far, even though I haven't done too much. Worked on some small examples, learning about setting state in a constructor because it is the first thing that runs in a component, and then manipulate state with the setState() method. Also learned about some of the other ways that import and export can be used to pass around classes of functions, and I thought you really just handled that with a generic 'export default Class' call, pretty cool how you can pass all functions from a file or just specific ones and pull them in elsewhere. Loving the modularization. 
+
+**Time Spent Today:**  7.25 hours
+
+**Journey Time** 858.75 hours
