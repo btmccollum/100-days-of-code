@@ -285,3 +285,16 @@ Side note, started the CS50x course to get a better grasp on data structures and
 **Time Spent Today:**  7.25 hours
 
 **Journey Time** 858.75 hours
+
+### Day 27 January 29, 2019
+
+**Today's Progress**: Worked on a few more React lessons, primarily focusing on establishing the initial state of a component in the constructor, and using callbacks and passing them down to a parent's child components to make changes up and down the structure in React. 
+
+**Thoughts:** The way that React components handle props and callback functions is really interesting. Took me a bit to get the hang of setting them up, but I feel more comfortable with them now. It is 'taboo' to pass functions or props between components, rather a prop should be passed from parent to child, and call back down to child, at which the originating component (parent) can be effected by execution of that function in the child for whatever criteria it uses. In this exercise I had to set some additional attributes in the intial state, pass a callback down to one component to capture which color was clicked, and then set that in the parent's state, and then pass that back to another component to then take the cell that was clicked and change it's state color from the old one to the new one returned by the callback. Very cool! Looking forward to being able to spend a lot more time with React. Finishing up part two of my JavaScript assessment tomorrow and then I'll be working with React full time. 
+
+**Link(s) to Work**: https://github.com/btmccollum/react-using-callbacks-to-pass-information-lab-v-000
+https://github.com/btmccollum/react-initial-state-lab-v-000
+
+**Time Spent Today:**  7.25 hours
+
+**Journey Time** 866 hours
