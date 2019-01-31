@@ -295,6 +295,21 @@ Side note, started the CS50x course to get a better grasp on data structures and
 **Link(s) to Work**: https://github.com/btmccollum/react-using-callbacks-to-pass-information-lab-v-000
 https://github.com/btmccollum/react-initial-state-lab-v-000
 
-**Time Spent Today:**  7.25 hours
+**Time Spent Today:**  7.5 hours
 
-**Journey Time** 866 hours
+**Journey Time** 866.25 hours
+
+### Day 28 January 30, 2019
+
+**Today's Progress**: Spent more time learning about React's SyntheticEvent wrapper and working through some practical applications. Also worked more with state, especially updating state and getting some hands on experience with how it works. Learned about the differences between state and props. 
+
+**Thoughts:**: Trying to wrap your head around state updates to deeply nested objects can be a bit dizzying at first. So many references to 'this' and spread operators as you make your way down for that one value, but I feel pretty comfortable with it now! Just had to see it work properly one time and I've got the jist of it. Events are pretty easy to work with in React and I really like how the SyntheticEvent wrapper works, makes it pretty easy and straightforward. 
+
+**Link(s) to Work**: 
+https://github.com/btmccollum/react-updating-state-lab-v-000
+https://github.com/btmccollum/react-events-in-detail-lab-v-000
+https://github.com/btmccollum/react-event-system-lab-v-000 
+
+**Time Spent Today:**  9.25 hours
+
+**Journey Time** 875.5 hours
