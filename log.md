@@ -313,3 +313,19 @@ https://github.com/btmccollum/react-event-system-lab-v-000
 **Time Spent Today:**  9.25 hours
 
 **Journey Time** 875.5 hours
+
+### Day 29 January 31, 2019
+
+**Today's Progress**: Studied up on the React Component lifecycle and the lifecycle hooks made available by React. Did a few excercises to work with different lifecycle hooks in all three stages, mounting/updating/unmounting.
+
+**Thoughts:**: Really loving React! The power of components is pretty cool, especially all of the options they provide to a developer and how efficiently they work from a user standpoint. More React please! Oh and I also passed my Flatiron assessment for the Rails/JS project, yay! 
+
+**Link(s) to Work**: 
+https://github.com/btmccollum/react-component-mounting-and-unmounting-lab-v-000
+https://github.com/btmccollum/react-component-mounting-lab-v-000
+https://github.com/btmccollum/react-props-and-state-lab-v-000
+https://github.com/btmccollum/react-component-updating-lab-v-000 
+
+**Time Spent Today:**  8.75 hours
+
+**Journey Time** 884.25 hours
