@@ -329,3 +329,16 @@ https://github.com/btmccollum/react-component-updating-lab-v-000
 **Time Spent Today:**  8.75 hours
 
 **Journey Time** 884.25 hours
+
+### Day 30 February 1, 2019
+
+**Today's Progress**: Worked on some async react exercises to practice more with React lifecycle hooks and dynamic rendering of fetched content.
+
+**Thoughts:**: Got really derailed on my schedule today with a mattress delivery and then having to clean and rearrange two rooms, but tomorrow will be my Friday instead! React lifecycle hooks are pretty cool in the customization they can offer you and I can already picture a bunch of uses for componentDidMount(). 
+
+**Link(s) to Work**: 
+https://github.com/learn-co-students/react-async-fetch-lab-v-000
+
+**Time Spent Today:**  1.5 hours
+
+**Journey Time** 885.75 hours
