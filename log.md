@@ -342,3 +342,16 @@ https://github.com/learn-co-students/react-async-fetch-lab-v-000
 **Time Spent Today:**  1.5 hours
 
 **Journey Time** 885.75 hours
+
+### Day 31 February 2, 2019
+
+**Today's Progress**: More practice with async React fundamentals. Completed a mini project exercise that made use of class components to communicate with the Giphy API to retrieve GIFs based on the user's search terms. This made use of several different components: a larger container component that would handle the gifs list retrieved from the fetch call, a gifsearch component and another to render the results. 
+
+**Thoughts:**: Feeling more and more comfortable with React class components. Tomorrow I'll start looking at the other types of components more indepth, Pure Components and Functional Components. I'd like to start my own separate side project to even further reinforce these ideas and what I'm learning. Just need to think of something that would be interesting to work with! More coming on that soon hopefully. 
+
+**Link(s) to Work**: 
+https://github.com/learn-co-students/react-async-gif-search-lab-v-000
+
+**Time Spent Today:**  5 hours
+
+**Journey Time** 890.75 hours
