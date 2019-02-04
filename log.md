@@ -337,7 +337,7 @@ https://github.com/btmccollum/react-component-updating-lab-v-000
 **Thoughts:**: Got really derailed on my schedule today with a mattress delivery and then having to clean and rearrange two rooms, but tomorrow will be my Friday instead! React lifecycle hooks are pretty cool in the customization they can offer you and I can already picture a bunch of uses for componentDidMount(). 
 
 **Link(s) to Work**: 
-https://github.com/learn-co-students/react-async-fetch-lab-v-000
+https://github.com/btmccollum/react-async-fetch-lab-v-000
 
 **Time Spent Today:**  1.5 hours
 
@@ -350,8 +350,22 @@ https://github.com/learn-co-students/react-async-fetch-lab-v-000
 **Thoughts:**: Feeling more and more comfortable with React class components. Tomorrow I'll start looking at the other types of components more indepth, Pure Components and Functional Components. I'd like to start my own separate side project to even further reinforce these ideas and what I'm learning. Just need to think of something that would be interesting to work with! More coming on that soon hopefully. 
 
 **Link(s) to Work**: 
-https://github.com/learn-co-students/react-async-gif-search-lab-v-000
+https://github.com/btmccollum/react-async-gif-search-lab-v-000
 
 **Time Spent Today:**  5 hours
 
 **Journey Time** 890.75 hours
+
+### Day 32 February 3, 2019
+
+**Today's Progress**: Completed a few exercises on advanced React Components, primarily focusing on the difference between concepts for presentational vs container components. Implemented some React Fragments into the exercise. Created a very simple mini-app that interfaced with the NYTimes Movies API to display the latest movie reviews and return results from a user query that were then passed down to functional stateless components to render the results.
+
+**Thoughts:**: Still loving React and the whole concept of components. They can be a bit tricky to figure out the ins and outs with them when you start working with some more complex set ups, but the things you can create with them are really cool. I especially like how much they seperate out concerns. Talk about single responsibility principle! I feel like components really embody that concents. I'd love to see a React app on the scale of Facebook and see just how many components they make use of. 
+
+**Link(s) to Work**: 
+https://github.com/btmccollum/react-container-components-lab-v-000 
+https://github.com/btmccollum/react-presentation-components-lab-v-000 
+
+**Time Spent Today:** 4.5 hours
+
+**Journey Time** 895.25 hours
