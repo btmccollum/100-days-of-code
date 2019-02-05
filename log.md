@@ -369,3 +369,16 @@ https://github.com/btmccollum/react-presentation-components-lab-v-000
 **Time Spent Today:** 4.5 hours
 
 **Journey Time** 895.25 hours
+
+### Day 33 February 4, 2019
+
+**Today's Progress**: Spent some time with React under the hood, mainly how Babel functions and Webpack. Moved on to how React utilizes declarative programming and the virtual DOM as well. Finished the day working on some exercises that demonstrate client-side routing by making used of the React-Router-DOM library. 
+
+**Thoughts:**: Very interesting to spend some time with React 'under the hood' so to speak, but I wish I was less tired while going through the material tonight, so much to pick up on and it is fascinating. Spent some time on client-side routing and designing single page applications (SPA). It's funny seeing the discussion of pushState() when I was using it on my previous Rails/JS hybrid so I kind of created a mini simulation of state. 
+
+**Link(s) to Work**: 
+https://github.com/btmccollum/react-components-as-routes-v-000
+
+**Time Spent Today:** 4 hours
+
+**Journey Time** 899.25 hours
