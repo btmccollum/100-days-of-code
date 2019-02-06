@@ -382,3 +382,17 @@ https://github.com/btmccollum/react-components-as-routes-v-000
 **Time Spent Today:** 4 hours
 
 **Journey Time** 899.25 hours
+
+### Day 34 February 5, 2019
+
+**Today's Progress**: Started the day learning about routing and nested routing in vanilla React. Then started the coursework on Redux and will start incorporating that soon! 
+
+**Thoughts:**: In the homestretch of the Flatiron curriculum, getting pretty excited to be nearing the end but also about anxious about a new career search-- this is what I've been working for the last 6 months since leaving my previous career to pursue this!! As far as initial thoughts on Redux, I really like the idea of having one POJO that is separated out from the React components to handle state, in theory it sounds way easier to keep track of state and make/track changes that way vs a really sticky system of nested routes and props. 
+
+
+**Link(s) to Work**: 
+https://github.com/btmccollum/react-components-as-routes-v-000
+
+**Time Spent Today:** 3.5 hours
+
+**Journey Time** 902.75 hours
