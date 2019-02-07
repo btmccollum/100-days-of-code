@@ -393,6 +393,21 @@ https://github.com/btmccollum/react-components-as-routes-v-000
 **Link(s) to Work**: 
 https://github.com/btmccollum/react-components-as-routes-v-000
 
-**Time Spent Today:** 3.5 hours
+**Time Spent Today:** 3.75 hours
 
 **Journey Time** 902.75 hours
+
+### Day 35 February 6, 2019
+
+**Today's Progress**: Did some light reading on Redux dispatch, initial dispatch, actions, reducer, and the Redux Store. Completed an exercise showing off reducer functions and then another that introduced a very simple example of the createStore() function and how state is handled with Redux.
+
+**Thoughts:**: Really excited to get deeper into the Redux Store. I think it's very exciting that I'm about to implement such a powerful feature. I watched some of Dan Abramov's key note speeches from 2015/2016 around the creation of Redux and it was pretty fascinating stuff. I'm excited to see what kind of things I can come up with to create some small scale React projects that revolve around a few fun APIs.
+
+
+**Link(s) to Work**: 
+https://github.com/btmccollum/redux-reducer-v-000
+https://github.com/btmccollum/redux-create-store-lab-v-000 
+
+**Time Spent Today:** 8 hours
+
+**Journey Time** 910.75 hours
