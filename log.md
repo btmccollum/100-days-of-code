@@ -411,3 +411,19 @@ https://github.com/btmccollum/redux-create-store-lab-v-000
 **Time Spent Today:** 8 hours
 
 **Journey Time** 910.75 hours
+
+### Day 36 February 7, 2019
+
+**Today's Progress**: Set up React DevTools and the chrome extension, what a handy tool! Completed a lab to walkthrough setting up the Redux library, how to use Provider and Connect to set up the Redux store. Got under the hood, so to speak, with Provider and Connect() middleware from the React-Redux library to see how exactly they function and how state changes are monitored and relevant portions sent back to the component being used. Learned about mapStateToProps and mapDispatchToProps. Worked with combineReducers().
+
+**Thoughts:**: Really looking forward to a project to implement all of these concepts, it really is cool the power that React/Redux provide and I'm actively looking for some fun APIs to make some mini projects, especially for my upcoming assessment. Feeling pretty good with Redux, some things are a bit tricky. I feel like combineReducers() makes sense and it wasn't too bad to implement on a smaller scale but I can see why it's so powerful when you start dealing with larger apps, I can only imagine how many lines of code you'd need and the mess you'd be dealing with without it. 
+
+**Link(s) to Work**: 
+https://github.com/btmccollum/intro-to-redux-library-codealong-v-000
+https://github.com/btmccollum/map-state-to-props-lab-v-000 
+https://github.com/btmccollum/map-dispatch-to-props-lab-v-000
+https://github.com/btmccollum/combine-reducers-v-000
+
+**Time Spent Today:** 9.5 hours
+
+**Journey Time** 920.25 hours
