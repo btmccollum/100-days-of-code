@@ -427,3 +427,23 @@ https://github.com/btmccollum/combine-reducers-v-000
 **Time Spent Today:** 9.5 hours
 
 **Journey Time** 920.25 hours
+
+### Day 37 February 8, 2019
+
+**Today's Progress**:  Mainly reinforced lessons from the previous few days to help build a more solid level of comfort with React/Redux. Worked on a few exercises to incorporate Redux into forms, and to understand how they work when using multiple resources with combineReducers(). 
+
+**Thoughts:**: The React/Redux community has been super helpful as I've been trying to get a grasp on incorporating React. One of redux's maintainers provided some very helpful resources I'd recommend to anyone learning:
+
+http://blog.isquaredsoftware.com/2017/12/blogged-answers-learn-react/ …
+http://blog.isquaredsoftware.com/2017/12/blogged-answers-learn-redux/ …
+https://github.com/markerikson/react-redux-links …
+
+Keeping state straight inside of my reducers is tripping me up sometimes depending on the complexity of the overall state, but i feel like I'm getting more comfortable with it. 
+
+**Link(s) to Work**: 
+https://github.com/btmccollum/building-forms-lab-v-000
+https://github.com/btmccollum/quote-maker-react-lab-v-000
+
+**Time Spent Today:** 9.25 hours
+
+**Journey Time** 929.5 hours
