@@ -447,3 +447,16 @@ https://github.com/btmccollum/quote-maker-react-lab-v-000
 **Time Spent Today:** 9.25 hours
 
 **Journey Time** 929.5 hours
+
+### Day 38 February 9, 2019
+
+**Today's Progress**:  Worked on a short exercise introducing some basic CRUD patterns with Redux. Implemented a few other actions of my own to further test it with different components. 
+
+**Thoughts:**: So far Redux hasnt been too bad to implement on a small scale, although I feel like that kind of defeats the purpose of using Redux since these are smaller scale applications with simple state that wouldnt necessarily require a store and that level of abstraction. 
+
+**Link(s) to Work**: 
+https://github.com/btmccollum/redux-delete-codealong-v-000
+
+**Time Spent Today:** 1.5 hours
+
+**Journey Time** 931 hours
