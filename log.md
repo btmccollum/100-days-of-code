@@ -460,3 +460,29 @@ https://github.com/btmccollum/redux-delete-codealong-v-000
 **Time Spent Today:** 1.5 hours
 
 **Journey Time** 931 hours
+
+### Day 39 February 10, 2019
+
+**Today's Progress**:  Completed some simple exercises showing off how to set up delete actions in React/Redux. More personal development than coding today.  
+
+**Thoughts:**: Spent most of my time today on personal development to get ready to start a search for my new career :) I did get some time in to practice CRUD actions in React/Redux, more to come tomorrow once I get some thorough experience with it. 
+
+**Link(s) to Work**: 
+https://github.com/btmccollum/redux-delete-codealong-v-000
+
+**Time Spent Today:** 2.5 hours
+
+**Journey Time** 933.5 hours
+
+### Day 40 February 11, 2019
+
+**Today's Progress**:  Completed an exercise to build out CRUD functionality in a sample app dealing with restaurant postings and reviews. Newly added restaurant components have a review container embedded within them which render a form to generate user reviews and display that list below the form.
+
+**Thoughts:**: This exercise was really good practice for getting used to building out CRUD apps with React/Redux. I feel like Redux might be a bit overkill for this type of app but nevertheless it is good practice for adjusting. I need to get in and finish the ability to update restaurant/review entries, which is just a matter of adding an edit button that fires off a dispatch for the "UPDATE_X" actions for each respective reducer. Once that is updated, then it's just a matter of returning a new state that makes use of map() to find an object with a matching ID and update said object.
+
+**Link(s) to Work**: 
+https://github.com/btmccollum/crud-lab-v-000
+
+**Time Spent Today:** 8.25 hours
+
+**Journey Time** 941.75 hours
