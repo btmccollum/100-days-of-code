@@ -486,3 +486,30 @@ https://github.com/btmccollum/crud-lab-v-000
 **Time Spent Today:** 8.25 hours
 
 **Journey Time** 941.75 hours
+
+### Day 41 February 12, 2019
+
+**Today's Progress**:  Completed some exercises that introduced applyMiddleware and Thunk for more efficient async requests. 
+
+**Thoughts:**: Ready for my project! Took a minute to get a solid grasp on thunk and setting up async requests. This upcoming project should help reinforce those gaps. Took me a little bit to debug some odd issues. I kept getting an error back for a while referencing Objects being returned from my componentDidUpdate() fetch call, but what it really ended up being was my dev tools setup in createStore. To fix it I ended up having to wrap it with compose().
+
+**Link(s) to Work**:
+https://github.com/btmccollum/redux-thunk-lab-v-000
+
+**Time Spent Today:** 8.75 hours
+
+**Journey Time** 950.5 hours
+
+### Day 42 February 13, 2019
+
+**Today's Progress**:  Started on a personal project today. Got the initial repos set up on Github and linked to some bare bones apps. Creating my own take on a Reddit feed with a React/Redux front end and Rails API for the back end.
+
+**Thoughts:**: Excited to get started on this project. Decided to start with the backend first. I've set up some minor API endpoints with Rails before but never a full on Rails API for a backend, so this will be a good learning experience. Picked up some quick tips from youtube videos about setting up a Rails API. I feel pretty comfortable about most of the things I need to do other than OAuth, that one is throwing me for a bit of a loop with this set up but I'll work through that tomorrow. Decided to make use of the Devise gem this time and its built in OAuth support. Reddit requires OAuth tokens for everything, so I'm going to need to figure out the best way going about that process. There isnt a known OAuth Reddit provider so I'm thinking I may need to have a standard login process, or at the least implement Facebook/Google and then ask the user to login with their Reddit info and authorize from there? More to come on that tomorrow. 
+
+**Link(s) to Work**: 
+https://github.com/btmccollum/droplet-web
+https://github.com/btmccollum/droplet-api
+
+**Time Spent Today:** 7 hours
+
+**Journey Time** 957.5 hours
