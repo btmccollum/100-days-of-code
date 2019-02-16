@@ -513,3 +513,51 @@ https://github.com/btmccollum/droplet-api
 **Time Spent Today:** 7 hours
 
 **Journey Time** 957.5 hours
+
+### Day 43 February 14, 2019
+
+**Today's Progress**:  Attended some local networking events with Flatiron. Spent a few hours researching for this project, mainly how to go about using a separate Rails API and React Frontend. 
+
+**Thoughts:**: This is the first time I've done anything like this, so a good test of my ability to figure things out just with some good ol' Google-fu. Unfortunately most readily accessible resources around doing this are oriented for Python, which appears to have a very robust Reddit wrapper called PRAW. Wish I could use that! 
+
+**Link(s) to Work**: 
+https://github.com/btmccollum/droplet-web
+https://github.com/btmccollum/droplet-api
+
+**Time Spent Today:** 3.25 hours
+
+**Journey Time** 960.75 hours
+
+### Day 44 February 15, 2019
+
+**Today's Progress**: I was able to create a successful connection with the Reddit API and obtain an access token through the Rails API.
+
+**Thoughts:**: This one was a pretty big challenge to get working properly. There were a few challenges here. Reddit's OAuth flow is unlike any other I've dealt with. There was only one provider gem and it was outdated which created some other complications. I was able to get that working, it looked like the issues was the removal of a callback_url from the oauth gem to better support OAuth2. I had to create several controller actions to create custome defined query params to pass to reddit with their scopes that were needed.
+
+**Link(s) to Work**: 
+https://github.com/btmccollum/droplet-web
+https://github.com/btmccollum/droplet-api
+
+**Time Spent Today:** 8 hours
+
+**Journey Time** 968.75 hours
+
+### Day 45 February 16, 2019
+
+**Today's Progress**:  Got most of the authentication flow figured out and set up. Started working on React/Redux state to store current user.
+
+**Thoughts:**: Still having some challenged with the auth flow given Reddit's unique OAuth set up and lack of gems/support which makes it very challenging. Also doesnt help this is my first time using Devise AND doing it in a Rails API setting which has been a bit complicated initially. 
+
+A problem I started running into was that the Reddit API only returns a username, not an email, and there is no way to obtain that without manually scraping it. This caused an issue with Devise authentication. It's probably not the most elegant solution but what I established as a work around is the following flow: A user is prompted to sign up and creates a very basic account using an email and password combination. What I want to do next is present them with the option to link their reddit account, which will use the OAuth flow. Once they click the link a POST request is sent to my Rails API to generate the query params required by Reddit and a redirect URL. 
+
+That information is then returned to React as JSON, at which point the window is force redirected to Reddit's authorization page to obtain permissions. Once they accept, they are sent to the callback url which is picked up by the Rails API in the Devise/Omniauth Users controller to update the User object with the information obtained from Reddit to build out a full profile.
+
+So far it works, but hopefully there wont be any more surprises. This one has really been a challenge to figure out how to make it work so far. Hopefully it works and I can move on to the actual meat of the application! 
+
+**Link(s) to Work**: 
+https://github.com/btmccollum/droplet-web
+https://github.com/btmccollum/droplet-api
+
+**Time Spent Today:** 4.5 hours
+
+**Journey Time** 973.25 hours
