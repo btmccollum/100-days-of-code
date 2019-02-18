@@ -561,3 +561,17 @@ https://github.com/btmccollum/droplet-api
 **Time Spent Today:** 4.5 hours
 
 **Journey Time** 973.25 hours
+
+### Day 46 February 17, 2019
+
+**Today's Progress**:  Cleaned up some unnecessary code in my API and front end. Did some light reading about how to approach DS/Algorithm problems.    
+
+**Thoughts:**: Nothing of note today! Took a bit of time to clean up some unneeded code from my repos which was just adding clutter for now. I'll jump back in tomorrow and hopefully be able to finish out my authentication process. I still feel better about my new approach, hopefully there are no hiccups trying to get the user information back to the front end. That may require some toying with to get it right.
+
+**Link(s) to Work**: 
+https://github.com/btmccollum/droplet-web
+https://github.com/btmccollum/droplet-api
+
+**Time Spent Today:** 1 hour
+
+**Journey Time** 974.25 hours
