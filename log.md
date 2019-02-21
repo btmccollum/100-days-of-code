@@ -572,6 +572,50 @@ https://github.com/btmccollum/droplet-api
 https://github.com/btmccollum/droplet-web
 https://github.com/btmccollum/droplet-api
 
-**Time Spent Today:** 1 hour
+**Time Spent Today:** 1.5 hour
 
-**Journey Time** 974.25 hours
+**Journey Time** 974.5 hours
+
+### Day 47 February 18, 2019
+
+**Today's Progress**: Continued to work on auth flow for app.  
+
+**Thoughts:**: Continuing to have headaches figuring out this flow. Starting to feel like maybe I took on too many firsts with this particular project- dealing with Devise, dealing with Devise in an API only setting, dealing with JWT for the first time, learning JWT and also trying to implement HTTPOnly cookie storage for sessions, moving data back and forth from front to back to third party api and back, etc. So many firsts! I love the challenge, but I also want to try and wrap this project up in a quicker manner for now. Entertained the idea of doing something a bit simpler for now and coming back to this project, maybe beer related. Had some epiphanies before going to sleep in regards to how I can work out this auth flow that I'll try tomorrow.
+
+**Link(s) to Work**: 
+https://github.com/btmccollum/droplet-web
+https://github.com/btmccollum/droplet-api
+
+**Time Spent Today:** 9 hours
+
+**Journey Time** 983.25 hours
+
+### Day 48 February 19, 2019
+
+**Today's Progress**: Continued work on auth flow.
+
+**Thoughts:**: Had some good breakthroughs from my react frontend when testing out a few different methods of making these requests! Feel a bit ashamed I thought of droping this project yesterday, but I've decided I need to stick with this one now that I'm on the verge of a breakthrough. Learning so much! Before moving this to the Rails API, I wanted to figure out the best way to implement JWT. I read several resources about storing them in HTTPOnly cookies vs local or session storage. I wanted to do HTTPOnly cookies but had trouble getting that to properly save from React. I was however able to implement sessionStorage. While it's not the most ideal scenario, I am going to go with that strategy for now.
+
+**Link(s) to Work**: 
+https://github.com/btmccollum/droplet-web
+https://github.com/btmccollum/droplet-api
+
+**Time Spent Today:** 10.75 hours
+
+**Journey Time** 994 hours
+
+### Day 49 February 20, 2019
+
+**Today's Progress**: Major progress on auth flow and also got a successful start on retrieving posts from Reddit using the OAuth flow. Auth now fully works between frontend, backend, and also Reddit when a user links their Reddit account. 
+
+**Thoughts:**: Just broke the 1000 hour mark on my journey so far since starting this path in August! What makes it even more exciting is that it happened on the same day I made all of my major personal breakthroughs with my React project!! 
+
+Feels really good solving the Auth puzzle that I've been fighting with the last few days. What I ended up doing was close to my plan from a few days ago but here is my basic flow: A user creates a basic account with the app, email and password (since Reddit does not return any email information). A user will then be asked to link their reddit account. A request is sent to my Rails API which uses a JWT token to authenticate the user, and then makes a POST request to Reddit to receive an OAuth token. The token is then persisted and used to perform subsequent requests to Reddit which are handled from the server (to make use of Auth tokens and secrets) instead of doing it client-side. 
+
+**Link(s) to Work**: 
+https://github.com/btmccollum/droplet-web
+https://github.com/btmccollum/droplet-api
+
+**Time Spent Today:** 6.25 hours
+
+**Journey Time** 1000.25 hours
