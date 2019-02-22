@@ -616,6 +616,22 @@ Feels really good solving the Auth puzzle that I've been fighting with the last 
 https://github.com/btmccollum/droplet-web
 https://github.com/btmccollum/droplet-api
 
-**Time Spent Today:** 6.25 hours
+**Time Spent Today:** 6.5 hours
 
-**Journey Time** 1000.25 hours
+**Journey Time** 1000.5 hours
+
+### Day 50 February 21, 2019
+
+**Today's Progress**: Implemented a means for my server to be able to refresh a User's reddit OAuth2 acces token when it has expired. Touched up the code for fetching posts. Started to add some stylization for reddit posts. Removed my navbar component in favor of the redux-burger-menu sidebar set up. 
+
+**Thoughts:**: Pretty satisfied with my token flow now. I was running into an issue with expired tokens since Reddit expires them an hour from issuance. In order to do this I added a private method to my posts controller and set it up on a before_action filter. The method will look at the current user's expiration time, and if it is expired it will make use of a class method that will obtain a new token from Reddit and update itself. For right now I think it's ok but I'd eventually like to take that functionality outside of the User model, as it probably is a separation of concerns issue for a class to be making POST requests to update its own information. 
+
+For the rest of the day I probably spent a bit too much time on adding some minor style, just to make it aesthetically pleasing for now. Tomorrow I really need to focus on getting the rest of the functionality inplace, and then come back to the design. 
+
+**Link(s) to Work**: 
+https://github.com/btmccollum/droplet-web
+https://github.com/btmccollum/droplet-api
+
+**Time Spent Today:** 10 hours
+
+**Journey Time** 1010.5 hours
