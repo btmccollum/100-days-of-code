@@ -634,3 +634,11 @@ https://github.com/btmccollum/droplet-api
 **Time Spent Today:** 10 hours
 
 **Journey Time** 1010.5 hours
+### Day 31: May 31st, 2019
+
+ **Today's Progress:** Test API changes
+
+ **Thoughts:** Testing fun api changes
+
+ **Link(s):** https://github.com/btmccollum/test_repo/blob/master/log.md
+ 
