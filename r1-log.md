@@ -22,4 +22,11 @@ Started a Weather App. Worked on the draft layout of the app, struggled with Ope
  **Thoughts:** test thoughts
 
  **Link(s):** https://github.com/btmccollum/100-days-of-code/blob/master/r1-log.md
+ ### R2D26: 6/4/2019
+
+ **Today's Progress:** Mostly spent adjusting the styling on my 100 days of code challenge manager that I've been working on. 
+
+ **Thoughts:** Just a few steps left! Really need to add an option to edit a user's github repo link to account for new/additional rounds being added to the log. 
+
+ **Link(s):** 
  
