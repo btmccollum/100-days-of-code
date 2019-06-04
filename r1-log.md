@@ -15,4 +15,11 @@ Started a Weather App. Worked on the draft layout of the app, struggled with Ope
  **Thoughts:** Things have been going really well with the application! I think I'm to a point now where it really just needs major styling. Eventually I'd like to refactor and a lot of this logic needs to be moved out of the controllers and into services or factory models (thinking of one for submissions to better handle potential future additions? I'd like to also revisit some of the work done earlier to move Github and Twitter calls out already.
 
  **Link(s):** https://github.com/btmccollum/ohdoc-challenge-manager
+ ### R2D23: 6/3/2019
+
+ **Today's Progress:** Test progress
+
+ **Thoughts:** test thoughts
+
+ **Link(s):** https://github.com/btmccollum/100-days-of-code/blob/master/r1-log.md
  
