@@ -29,4 +29,11 @@ Started a Weather App. Worked on the draft layout of the app, struggled with Ope
  **Thoughts:** Just a few steps left! Really need to add an option to edit a user's github repo link to account for new/additional rounds being added to the log. 
 
  **Link(s):** 
+ ### 
+
+ **Today's Progress:** 
+
+ **Thoughts:** 
+
+ **Link(s):** 
  
