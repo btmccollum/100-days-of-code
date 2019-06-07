@@ -36,4 +36,11 @@ Started a Weather App. Worked on the draft layout of the app, struggled with Ope
  **Thoughts:** 
 
  **Link(s):** 
+ ### R2D27: June 6th, 2019
+
+ **Today's Progress:** Did a few kata to start the day. Looked for more job postings in the DFW area. Continued to clean up my #100DaysOfCode challenge manager application. Started revamping user profiles to make use of a form to allow a user to change their github repo if they need to. 
+
+ **Thoughts:** This project has been taking a bit longer than I initially thought it would. There have been a lot of great learning opportunities on this one, but more so than anything, this is another good example of why I really need to get more comfortable with TDD so I dont have to keep doing manual tests.
+
+ **Link(s):** https://github.com/btmccollum/ohdoc-challenge-manager/tree/development
  
