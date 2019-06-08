@@ -43,4 +43,11 @@ Started a Weather App. Worked on the draft layout of the app, struggled with Ope
  **Thoughts:** This project has been taking a bit longer than I initially thought it would. There have been a lot of great learning opportunities on this one, but more so than anything, this is another good example of why I really need to get more comfortable with TDD so I dont have to keep doing manual tests.
 
  **Link(s):** https://github.com/btmccollum/ohdoc-challenge-manager/tree/development
+ ### Test
+
+ **Today's Progress:** test
+
+ **Thoughts:** test
+
+ **Link(s):** test
  
