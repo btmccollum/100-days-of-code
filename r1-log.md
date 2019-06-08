@@ -50,4 +50,11 @@ Started a Weather App. Worked on the draft layout of the app, struggled with Ope
  **Thoughts:** test
 
  **Link(s):** test
+ ### Test
+
+ **Today's Progress:** Test
+
+ **Thoughts:** 
+
+ **Link(s):** test
  
