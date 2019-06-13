@@ -57,4 +57,11 @@ Started a Weather App. Worked on the draft layout of the app, struggled with Ope
  **Thoughts:** 
 
  **Link(s):** test
+ ### See R2 Journal for continuation...
+
+ **Today's Progress:** 
+
+ **Thoughts:** 
+
+ **Link(s):** 
  
