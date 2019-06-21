@@ -8,3 +8,11 @@
  **Link(s):** https://github.com/btmccollum/ohdoc-challenge-manager
  
  
+### Day 41: June 21st, 2019
+
+ **Today's Progress:** Test
+
+ **Thoughts:** TESt
+
+ **Link(s):** test
+ 
