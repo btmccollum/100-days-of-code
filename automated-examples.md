@@ -6,11 +6,5 @@
  **Thoughts:** Doing a live repo test for changes.
 
  **Link(s):** https://github.com/btmccollum/ohdoc-challenge-manager
- ### 
-
- **Today's Progress:** 
-
- **Thoughts:** 
-
- **Link(s):** 
+ 
  
