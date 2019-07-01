@@ -15,4 +15,11 @@
  **Thoughts:** TESt
 
  **Link(s):** test
+ ### Day 43: June 24, 2019
+
+ **Today's Progress:** Tested my API calls today.
+
+ **Thoughts:** Today was a good day!
+
+ **Link(s):** https://github.com/btmccollum/ohdoc-challenge-manager
  
