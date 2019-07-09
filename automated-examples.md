@@ -22,4 +22,11 @@
  **Thoughts:** Today was a good day!
 
  **Link(s):** https://github.com/btmccollum/ohdoc-challenge-manager
+ ### R2D59: July 9th, 2019
+
+ **Today's Progress:** Patched a omniauth vulnerability in this project. Ensured that API calls were still working as intended.
+
+ **Thoughts:** Everything looks to be good so far! 
+
+ **Link(s):** ohdoc-manager.herokuapp.com
  
