@@ -13,4 +13,11 @@
  **Thoughts:** Excited to work on this next feature. I've built quite a few apps now, but they've never had the ability to reset password by email which is a basic function any app should have. 
 
  **Link(s):** 
+ ### R2 Day 60: July 10th, 2019
+
+ **Today's Progress:** Made a short demo for my #100DaysOfCode app, the OHDOC Challenge Manager. Started to develop a few more specs for the app.
+
+ **Thoughts:** Really excited with where this app is at! Happy to write a few more tests and in the meantime I'll be thinking of some new project ideas. Maybe I'll try out something brewery related with GraphQL and Docker this time? 
+
+ **Link(s):** https://github.com/btmccollum/ohdoc-challenge-manager
  
